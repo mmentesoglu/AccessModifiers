@@ -14,6 +14,7 @@ public class CourseBook extends Book{
     public CourseBook() {
         author = "ABC";   // You can access protected variable if it cretaed in same package
         modifyTemplate(); // You can 
+        
     }
     
 }
